@@ -5,8 +5,8 @@
 
    The `Walters Art Museum`_ has scanned and released into the public domain a twelfth century illuminated manuscript created by Christian monks that served as a scientific text.  The two reproduced pages illustrate 'the heavens'.
 
-Planetary I/O
-=============
+Planets 
+========
 Planetary I/O (Plio) is an open source collection of my commonly used I/O functionality. Plio is licensed in `the public domain`_.
 
 Issues and Version Control
